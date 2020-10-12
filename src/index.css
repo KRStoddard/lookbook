@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.contact-card {
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+.important {
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  border: 2px solid rgb(180, 17, 17);
+}
